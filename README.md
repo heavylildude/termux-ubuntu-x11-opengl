@@ -1,4 +1,5 @@
 Disable Phantom Process Killer Android ::
+
 https://maheshtechnicals.com/fix-termux-error-process-completed-signal-9-disable-phantom-process-killer-in-android-12-13/
 
 Termux setup ::
