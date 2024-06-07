@@ -2,6 +2,7 @@ Disable Phantom Process Killer Android ::
 
 https://maheshtechnicals.com/fix-termux-error-process-completed-signal-9-disable-phantom-process-killer-in-android-12-13/
 
+
 Termux setup ::
 ```
 pkg update
@@ -19,9 +20,11 @@ Termux X11 ::
 
 https://github.com/termux/termux-x11
 
+
 Recommended Ubuntu Automated Script ::
 
 https://github.com/modded-ubuntu/modded-ubuntu
+
 
 Hardware Acceleration Termux ::
 
@@ -64,7 +67,9 @@ MESA_LOADER_DRIVER_OVERRIDE=zink TU_DEBUG=noconform program
 
 
 Gstreamer ::
+
 https://gstreamer.freedesktop.org/documentation/installing/on-linux.html?gi-language=c
+
 
 Gstreamer Debian Ubuntu ::
 ```
@@ -73,5 +78,7 @@ apt-get install libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev libgstreame
 
 >> after all installation use "bash startme.sh" from termux and "bash startx11.sh" from ubuntu
 
+
 Cool VL Viewer Arm64 ::
+
 https://sldev.free.fr/index.php?page=download
